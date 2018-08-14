@@ -805,18 +805,19 @@ p{       font-family:Arial, Helvetica, sans-serif;
 
 }
 
-#profile{
+#profile {
 
 	float: right;
-
-	width: 58%;
-
-	height: 91%;
-
-	margin-top: 6%;
 	
-    margin-right: 12%;
+	width: 58%;
+	
+	height: 91%;
+	
+	margin-top: -100%;
+	
+	margin-right: -44%;
 }
+
 
 
 

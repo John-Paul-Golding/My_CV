@@ -1,0 +1,143 @@
+/* mobile view */
+@media only screen and (max-width: 360px) {
+    
+    #html{
+
+        margin-right: 32%;
+    
+        width: 30vw !important;
+    
+        height: 26vh !important;
+    
+    }		
+    
+    #css{
+    
+        margin-right: 32%;
+    
+        width: 30vw !important;
+    
+        height: 26vh !important;
+    
+    }
+    
+    #sass{
+    
+        margin-right: 31%;
+    
+        width: 30vw !important;
+    
+        height: 26vh !important;
+    
+    }
+    
+    #js{
+    
+        margin-right: 31%;
+    
+        width: 30vw !important;
+    
+        height: 26vh !important;
+    
+    }
+    
+    #jquery{
+    
+        margin-right: 28%;
+    
+        width: 34vw !important;
+    
+        height: 26vh !important;
+    
+    }
+    
+    #git{
+    
+        margin-right: 29%;
+    
+        width: 30vw !important;
+    
+        height: 26vh !important;
+    
+    }
+    
+    #api{
+    
+        margin-right: 27%;
+    
+        width: 30vw !important;
+    
+        height: 26vh !important;
+    
+        margin-top: 5%;
+    
+    }
+    
+    #crud{
+    
+        margin-right: 26%;
+    
+        width: 34vw !important;
+    
+        height: 26vh !important;
+    
+        margin-top: 7%;
+    
+    }
+    
+    .article {
+        text-align: left;
+        font-size: 25px;
+    }
+
+    #p4, #p5, #p6, #p7, #p8, #p9 {
+        text-align: left;
+        font-size: 25px;
+    }
+
+    
+    h2 {
+    font-size: 25px;
+    color: #bb5544;
+    text-transform: capitalize;
+    line-height: 20px;
+    text-align: left;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    #footer span {
+        width: 960px;
+        margin: 0 auto;
+        display: block;
+        padding-top: 0px;
+        font-size: 25px;
+    }
+}
